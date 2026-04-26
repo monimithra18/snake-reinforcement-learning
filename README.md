@@ -101,4 +101,4 @@ The agent's score improves significantly over time. Early games result in quick 
 
 ---
 
-*Built by [Monish Mithra Kadiyala](https://linkedin.com/in/monishmithra) · MS Data Science @ University at Buffalo*
+*Built by [Monish Mithra Kadiyala](https://linkedin.com/in/monishmithra) ·*
